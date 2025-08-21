@@ -49,10 +49,8 @@ Passionate about crafting scalable, high-performing **web and mobile application
 
 ## 📫 Connect with Me  
 
-- 🌍 [Portfolio / Website](#) _(Add your link here)_  
-- 💼 [LinkedIn](#) _(Add your profile link)_  
-- 🐦 [Twitter / X](#) _(Optional)_  
-- 📧 **Your Email**  
+- 🌍 [Portfolio / Website](https://www.linkedin.com/in/devrohitsaini) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/devrohitsaini)
 
 ---
 
