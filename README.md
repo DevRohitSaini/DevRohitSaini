@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rohit Saini  
 
-🚀 **Software Programmer | Full-Stack Developer | Mobile & Web Developer**  
+🚀 **Software Programmer | Full-Stack Developer**  
 
 I specialize in **JavaScript, Node.js, Angular, React, React Native, PHP, MySQL, and MongoDB**.  
 Passionate about crafting scalable, high-performing **web and mobile applications**.  
