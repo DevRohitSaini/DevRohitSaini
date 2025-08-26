@@ -7,15 +7,6 @@ Passionate about crafting scalable, high-performing **web and mobile application
 
 ---
 
-## 💡 About Me  
-- 💻 5+ years of experience in **Web & Mobile Application Development**  
-- 🌐 Skilled in **MERN Stack, PHP, MySQL, and MongoDB**  
-- 🔄 Strong background in **Front-End & Back-End Development**  
-- ⚙️ Experienced with **API Development, MVC Architecture, and Application Lifecycle Management**  
-- 🤝 Team player with a focus on **collaboration, documentation, and clean code**  
-
----
-
 ## 🛠️ Tech Stack & Skills  
 
 **Languages & Frameworks:**  
@@ -25,7 +16,7 @@ Passionate about crafting scalable, high-performing **web and mobile application
 - Node.js, Express.js  
 
 **Databases & Tools:**  
-- MySQL, MongoDB, Oracle, pgAdmin  
+- MySQL, MongoDB, pgAdmin  
 - Git, GitHub, WordPress, WooCommerce  
 
 **Expertise Areas:**  
