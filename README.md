@@ -5,7 +5,9 @@
 I’m a Full-stack Web Developer, specializing in designing and developing secure, scalable, and high-performance web applications. My core strength lies in backend development, API design, database modeling, and building robust architectures using microservices and cloud technologies.
 
 💡 Strong focus on backend development, API architecture, database modeling, and system scalability.
+
 ⚙️ Passionate about solving complex backend challenges and optimizing performance.
+
 🔐 Always prioritizing security, performance, and clean architecture.
 
 ### 🧩 What I Work On
